@@ -12,8 +12,8 @@
     "uptimeYear": "98.78%",
     "time": 868,
     "timeDay": 872,
-    "timeWeek": 859,
-    "timeMonth": 853,
+    "timeWeek": 860,
+    "timeMonth": 854,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2024-07-11": 379,
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-07-11": 923,
+      "2024-07-11": 933,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -1051,7 +1051,7 @@
     "timeMonth": 1281,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2024-07-11": 924,
+      "2024-07-11": 934,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -1648,7 +1648,7 @@
     "timeMonth": 1032,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2024-07-11": 924,
+      "2024-07-11": 934,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
@@ -1874,25 +1874,25 @@
     "url": "$TSP",
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "47.17%",
-    "uptimeWeek": "64.03%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "98.84%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "47.04%",
+    "uptimeWeek": "64.31%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "98.85%",
     "time": 531,
-    "timeDay": 496,
+    "timeDay": 497,
     "timeWeek": 556,
     "timeMonth": 546,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-07-11": 534,
+      "2024-07-11": 536,
       "2024-07-10": 728,
       "2024-07-09": 490,
       "2024-07-08": 557,
       "2024-07-07": 677,
       "2024-07-06": 590,
-      "2024-07-05": 49
+      "2024-07-05": 19
     }
   },
   {
