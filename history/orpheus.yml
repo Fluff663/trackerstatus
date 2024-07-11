@@ -1,7 +1,7 @@
 url: $OPS
-status: down
+status: degraded
 code: 502
-responseTime: 867
-lastUpdated: 2024-07-11T08:25:58.952Z
+responseTime: 1179
+lastUpdated: 2024-07-11T08:38:22.644Z
 startTime: 2023-12-06T19:55:27.961Z
 generator: Upptime <https://github.com/upptime/upptime>
