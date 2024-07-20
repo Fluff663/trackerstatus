@@ -4,14 +4,14 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "52.54%",
-    "uptimeWeek": "63.46%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "52.52%",
+    "uptimeWeek": "63.79%",
+    "uptimeMonth": "91.67%",
+    "uptimeYear": "98.88%",
     "time": 867,
-    "timeDay": 861,
+    "timeDay": 858,
     "timeWeek": 837,
     "timeMonth": 838,
     "timeYear": 867,
@@ -22,7 +22,7 @@
       "2024-07-17": 647,
       "2024-07-16": 623,
       "2024-07-15": 643,
-      "2024-07-14": 136
+      "2024-07-14": 103
     }
   },
   {
@@ -255,9 +255,9 @@
     "slug": "baka-bt",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "94.46%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "94.57%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.19%",
     "time": 3642,
     "timeDay": 4132,
@@ -265,7 +265,7 @@
     "timeMonth": 3883,
     "timeYear": 3642,
     "dailyMinutesDown": {
-      "2024-07-20": 29,
+      "2024-07-20": 18,
       "2024-07-19": 39,
       "2024-07-18": 19,
       "2024-07-17": 78,
@@ -287,7 +287,7 @@
       "2024-07-01": 163,
       "2024-06-30": 83,
       "2024-06-29": 181,
-      "2024-06-28": 26
+      "2024-06-28": 43
     }
   },
   {
@@ -307,7 +307,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-07-20": 696,
+      "2024-07-20": 705,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1068,7 +1068,7 @@
     "timeMonth": 1466,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2024-07-20": 696,
+      "2024-07-20": 706,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1674,7 +1674,7 @@
     "timeMonth": 900,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-07-20": 696,
+      "2024-07-20": 706,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1911,17 +1911,17 @@
     "slug": "the-scene-place",
     "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "57.23%",
-    "uptimeWeek": "57.92%",
-    "uptimeMonth": "90.32%",
+    "uptimeDay": "56.66%",
+    "uptimeWeek": "57.82%",
+    "uptimeMonth": "90.29%",
     "uptimeYear": "98.70%",
     "time": 532,
-    "timeDay": 527,
-    "timeWeek": 537,
+    "timeDay": 524,
+    "timeWeek": 538,
     "timeMonth": 544,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-07-20": 355,
+      "2024-07-20": 364,
       "2024-07-19": 521,
       "2024-07-18": 679,
       "2024-07-17": 415,
