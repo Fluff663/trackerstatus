@@ -4,25 +4,24 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "53.26%",
-    "uptimeWeek": "63.72%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "98.89%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "53.42%",
+    "uptimeWeek": "63.88%",
+    "uptimeMonth": "91.69%",
+    "uptimeYear": "98.90%",
     "time": 867,
-    "timeDay": 812,
-    "timeWeek": 843,
+    "timeDay": 815,
+    "timeWeek": 841,
     "timeMonth": 840,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-07-23": 394,
+      "2024-07-23": 395,
       "2024-07-22": 468,
       "2024-07-21": 837,
       "2024-07-20": 604,
       "2024-07-19": 759,
-      "2024-07-18": 574,
-      "2024-07-17": 17
+      "2024-07-18": 574
     }
   },
   {
@@ -255,9 +254,9 @@
     "slug": "baka-bt",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "88.65%",
-    "uptimeWeek": "90.08%",
-    "uptimeMonth": "93.69%",
+    "uptimeDay": "89.32%",
+    "uptimeWeek": "90.17%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.16%",
     "time": 3662,
     "timeDay": 4172,
@@ -265,7 +264,7 @@
     "timeMonth": 3975,
     "timeYear": 3662,
     "dailyMinutesDown": {
-      "2024-07-23": 41,
+      "2024-07-23": 31,
       "2024-07-22": 314,
       "2024-07-21": 290,
       "2024-07-20": 219,
@@ -284,7 +283,7 @@
       "2024-07-07": 45,
       "2024-07-06": 81,
       "2024-07-05": 156,
-      "2024-07-04": 19
+      "2024-07-04": 37
     }
   },
   {
@@ -304,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-07-23": 829,
+      "2024-07-23": 838,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -878,11 +877,11 @@
     "icon": "$HDA_ICON",
     "slug": "hd-area",
     "status": "up",
-    "uptime": "30.83%",
+    "uptime": "30.84%",
     "uptimeDay": "98.27%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "30.83%",
+    "uptimeYear": "30.84%",
     "time": 826,
     "timeDay": 573,
     "timeWeek": 563,
@@ -1074,7 +1073,7 @@
     "timeMonth": 1445,
     "timeYear": 1358,
     "dailyMinutesDown": {
-      "2024-07-23": 829,
+      "2024-07-23": 838,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
@@ -1683,7 +1682,7 @@
     "timeMonth": 1029,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2024-07-23": 830,
+      "2024-07-23": 838,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
