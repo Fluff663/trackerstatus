@@ -166,7 +166,7 @@ status-website:
   introTitle: "This is a status page for several private trackers."
   introMessage: "If you would like a tracker added/removed please send an email to fluff663@pm.me"
   navbar:
-    - title: Status
+    - title: Statuss
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
