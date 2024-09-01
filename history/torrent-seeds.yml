@@ -1,7 +1,7 @@
 url: $TS
-status: down
-code: 502
-responseTime: 118
-lastUpdated: 2024-09-01T19:43:48.437Z
+status: up
+code: 200
+responseTime: 480
+lastUpdated: 2024-09-01T19:48:55.138Z
 startTime: 2023-12-06T23:14:56.108Z
 generator: Upptime <https://github.com/upptime/upptime>
