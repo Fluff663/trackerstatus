@@ -1,7 +1,7 @@
 url: $AIT
-status: degraded
+status: up
 code: 200
-responseTime: 4613
-lastUpdated: 2024-09-11T19:12:58.437Z
+responseTime: 797
+lastUpdated: 2024-09-11T19:19:54.373Z
 startTime: 2023-12-06T19:10:13.153Z
 generator: Upptime <https://github.com/upptime/upptime>
