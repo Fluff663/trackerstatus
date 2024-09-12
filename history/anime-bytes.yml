@@ -1,7 +1,7 @@
 url: $AB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-12T10:33:25.987Z
+status: up
+code: 200
+responseTime: 223
+lastUpdated: 2024-09-12T13:12:37.639Z
 startTime: 2023-12-06T19:16:12.461Z
 generator: Upptime <https://github.com/upptime/upptime>
