@@ -1,7 +1,7 @@
 url: $AR
-status: degraded
+status: up
 code: 200
-responseTime: 3104
-lastUpdated: 2024-09-29T13:34:49.502Z
+responseTime: 933
+lastUpdated: 2024-09-29T13:40:25.629Z
 startTime: 2023-12-06T19:12:54.273Z
 generator: Upptime <https://github.com/upptime/upptime>
