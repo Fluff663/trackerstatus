@@ -1,7 +1,7 @@
 url: $SHZ
-status: up
+status: degraded
 code: 200
-responseTime: 169
-lastUpdated: 2024-09-29T23:13:37.727Z
+responseTime: 11676
+lastUpdated: 2024-10-01T13:03:56.844Z
 startTime: 2023-12-06T23:14:47.216Z
 generator: Upptime <https://github.com/upptime/upptime>
