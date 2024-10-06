@@ -1,7 +1,7 @@
 url: $AT
-status: up
+status: degraded
 code: 200
-responseTime: 722
-lastUpdated: 2024-10-05T23:13:20.127Z
+responseTime: 4052
+lastUpdated: 2024-10-06T02:12:14.220Z
 startTime: 2023-12-06T19:30:14.911Z
 generator: Upptime <https://github.com/upptime/upptime>
