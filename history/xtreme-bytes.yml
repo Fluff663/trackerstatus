@@ -1,7 +1,7 @@
 url: $XB
-status: up
+status: degraded
 code: 200
-responseTime: 395
-lastUpdated: 2024-10-05T23:15:35.178Z
+responseTime: 1469
+lastUpdated: 2024-10-06T19:14:02.959Z
 startTime: 2023-12-06T23:14:57.745Z
 generator: Upptime <https://github.com/upptime/upptime>
