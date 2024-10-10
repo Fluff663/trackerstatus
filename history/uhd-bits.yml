@@ -1,7 +1,7 @@
 url: $UHDB
-status: up
+status: degraded
 code: 200
-responseTime: 589
-lastUpdated: 2024-10-09T23:16:34.045Z
+responseTime: 6684
+lastUpdated: 2024-10-10T19:01:29.663Z
 startTime: 2023-12-06T23:14:56.724Z
 generator: Upptime <https://github.com/upptime/upptime>
