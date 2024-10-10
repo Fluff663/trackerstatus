@@ -1,7 +1,7 @@
 url: $OTW
-status: degraded
+status: up
 code: 200
-responseTime: 7494
-lastUpdated: 2024-10-10T05:17:25.301Z
+responseTime: 393
+lastUpdated: 2024-10-10T05:32:46.711Z
 startTime: 2023-12-06T19:51:20.987Z
 generator: Upptime <https://github.com/upptime/upptime>
