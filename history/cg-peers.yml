@@ -1,7 +1,7 @@
 url: $CGP
-status: up
-code: 200
-responseTime: 897
-lastUpdated: 2024-10-14T04:32:38.310Z
+status: degraded
+code: 502
+responseTime: 1115
+lastUpdated: 2024-10-15T04:11:43.161Z
 startTime: 2023-12-06T19:33:28.198Z
 generator: Upptime <https://github.com/upptime/upptime>
