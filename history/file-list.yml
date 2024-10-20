@@ -1,7 +1,7 @@
 url: $FL
-status: up
+status: degraded
 code: 200
-responseTime: 477
-lastUpdated: 2024-10-19T23:14:31.369Z
+responseTime: 3545
+lastUpdated: 2024-10-20T16:12:26.884Z
 startTime: 2023-12-06T19:41:58.491Z
 generator: Upptime <https://github.com/upptime/upptime>
