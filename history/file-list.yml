@@ -1,7 +1,7 @@
 url: $FL
-status: down
-code: 502
-responseTime: 465
-lastUpdated: 2024-10-28T20:55:35.733Z
+status: up
+code: 200
+responseTime: 388
+lastUpdated: 2024-10-28T21:17:11.405Z
 startTime: 2023-12-06T19:41:58.491Z
 generator: Upptime <https://github.com/upptime/upptime>
