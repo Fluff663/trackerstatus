@@ -1,7 +1,7 @@
 url: $BS
-status: up
+status: degraded
 code: 200
-responseTime: 83
-lastUpdated: 2024-11-01T23:14:17.263Z
+responseTime: 1548
+lastUpdated: 2024-11-02T09:00:08.135Z
 startTime: 2023-12-06T19:30:25.461Z
 generator: Upptime <https://github.com/upptime/upptime>
