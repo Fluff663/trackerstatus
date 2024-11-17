@@ -1,7 +1,7 @@
 url: $BLU
-status: up
+status: degraded
 code: 200
-responseTime: 77
-lastUpdated: 2024-11-17T14:39:09.085Z
+responseTime: 5264
+lastUpdated: 2024-11-17T14:50:43.685Z
 startTime: 2023-12-06T19:30:26.683Z
 generator: Upptime <https://github.com/upptime/upptime>
