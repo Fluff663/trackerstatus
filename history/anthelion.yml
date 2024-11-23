@@ -1,7 +1,7 @@
 url: $ANT
-status: up
+status: degraded
 code: 200
-responseTime: 789
-lastUpdated: 2024-11-22T23:15:15.757Z
+responseTime: 3208
+lastUpdated: 2024-11-23T13:13:28.276Z
 startTime: 2023-12-06T19:00:02.569Z
 generator: Upptime <https://github.com/upptime/upptime>
