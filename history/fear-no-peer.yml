@@ -1,7 +1,7 @@
 url: $FNP
-status: up
-code: 200
-responseTime: 443
-lastUpdated: 2024-12-22T14:29:35.661Z
+status: down
+code: 403
+responseTime: 81
+lastUpdated: 2024-12-22T14:53:52.364Z
 startTime: 2023-12-06T19:41:57.082Z
 generator: Upptime <https://github.com/upptime/upptime>
