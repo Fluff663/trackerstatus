@@ -1,7 +1,7 @@
 url: $REF
-status: down
-code: 502
-responseTime: 247
-lastUpdated: 2024-12-24T05:00:56.864Z
+status: up
+code: 200
+responseTime: 423
+lastUpdated: 2024-12-24T05:17:31.226Z
 startTime: 2023-12-06T23:14:46.528Z
 generator: Upptime <https://github.com/upptime/upptime>
