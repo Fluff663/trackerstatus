@@ -1,7 +1,7 @@
 url: $BS
-status: down
-code: 429
-responseTime: 416
-lastUpdated: 2024-12-30T21:53:58.113Z
+status: up
+code: 200
+responseTime: 969
+lastUpdated: 2024-12-30T22:00:58.219Z
 startTime: 2023-12-06T19:30:25.461Z
 generator: Upptime <https://github.com/upptime/upptime>
