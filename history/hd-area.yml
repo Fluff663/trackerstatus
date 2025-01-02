@@ -1,7 +1,7 @@
 url: $HDA
-status: up
+status: degraded
 code: 200
-responseTime: 300
-lastUpdated: 2024-12-31T16:33:45.084Z
+responseTime: 6730
+lastUpdated: 2025-01-02T06:12:22.511Z
 startTime: 2023-12-06T19:48:05.954Z
 generator: Upptime <https://github.com/upptime/upptime>
