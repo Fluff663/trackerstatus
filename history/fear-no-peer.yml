@@ -1,7 +1,7 @@
 url: $FNP
-status: degraded
+status: down
 code: 403
-responseTime: 3542
-lastUpdated: 2025-01-05T14:13:35.306Z
+responseTime: 154
+lastUpdated: 2025-01-05T14:27:11.126Z
 startTime: 2023-12-06T19:41:57.082Z
 generator: Upptime <https://github.com/upptime/upptime>
