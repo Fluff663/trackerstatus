@@ -1,7 +1,7 @@
 url: $HDA
-status: down
-code: 502
-responseTime: 162
-lastUpdated: 2025-01-11T16:16:17.437Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2025-01-11T16:33:03.050Z
 startTime: 2023-12-06T19:48:05.954Z
 generator: Upptime <https://github.com/upptime/upptime>
